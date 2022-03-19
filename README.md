@@ -11,6 +11,10 @@ There are times when reading data from the DOM is simply too slow or unwieldy, p
 ## Screenshot
 ![laravel datatable jquery server side](https://user-images.githubusercontent.com/29264001/159136861-65096b66-2165-498d-b7a7-fd7126ad8f66.png)
 
+## 🚀 There is an online demo
+### DEMO 👉 [Online](https://www.jhonpride.ybdweb.com/laravel-datatable-jquery-server-side)
+
+
 ## Run laravel project locally
 ~~~
 git clone https://github.com/jhonijlm/laravel-datatable-jquery-server-side.git
